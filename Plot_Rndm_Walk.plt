@@ -1,0 +1,1 @@
+plot 'STEPS_RNDM_WALK_13_  1.0000_0000001000_.dat' w l lt rgb 'red' lw 2
